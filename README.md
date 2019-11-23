@@ -38,7 +38,7 @@
      net start MongoDB
      net stop MongoDB
 
-<b>5. Download & install mongoDB compass
+<b>5. Download & install mongoDB compass</b>
      
      https://www.mongodb.com/download-center/compass
      
