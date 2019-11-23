@@ -24,8 +24,8 @@
      cd C:\Program Files\MongoDB\Server\4.0\bin
      mongod.exe 
      use inventory_system
-     db.people.insert( {"email":"nabihahzahari@gmail.com", "name":"nabihah", "position":"junior", "password":"nabihah"} );
-     db.item.insert( {"name":"bubble", "quantity":6, "price":1, "userid":1} );
+     db.peoples.insert( {"email":"nabihahzahari@gmail.com", "name":"nabihah", "position":"junior", "password":"nabihah"} );
+     db.items.insert( {"name":"bubble", "quantity":6, "price":1, "userid":1} );
      
      //Ctrl^C (to exit mongoDB shell)
      
