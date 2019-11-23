@@ -1,6 +1,6 @@
 # InventoryMgtSystem-mongoDB
 
-<b>1. Download mongoDB, run the .msi file</b>
+<b>1. Download & install mongoDB</b>
 
      https://www.mongodb.com/download-center/community
      
@@ -38,4 +38,10 @@
      net start MongoDB
      net stop MongoDB
 
+<b>5. Download & install mongoDB compass
+     
+     https://www.mongodb.com/download-center/compass
+     
+     hostname: localhost
+     port: 20717
      
