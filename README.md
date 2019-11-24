@@ -34,7 +34,7 @@
      //(open cmd admin mode)
      
      cd C:\Program Files\MongoDB\Server\4.0\bin
-     --config "C:\Program Files\MongoDB\Server\4.0\mongod.cfg" --install
+     mongod.exe --config "C:\Program Files\MongoDB\Server\4.0\mongod.cfg" --install
      net start MongoDB
      net stop MongoDB
 
