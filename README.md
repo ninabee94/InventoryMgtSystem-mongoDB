@@ -1,5 +1,11 @@
 # InventoryMgtSystem-mongoDB
 
+     frontend (Ionic): https://github.com/ninabee94/InventoryMgtSystem-Ionic4
+     backend (Express.js): https://github.com/ninabee94/InventoryMgtSystem-API-Express
+     database (mongoDB): https://github.com/ninabee94/InventoryMgtSystem-mongoDB
+     
+=======================================
+
 <b>1. Download & install mongoDB</b>
 
      https://www.mongodb.com/download-center/community
